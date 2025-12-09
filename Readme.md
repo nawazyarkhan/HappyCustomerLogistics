@@ -1,6 +1,6 @@
 # Customer Behaviour Prediction — Delivery / Logistics Domain
 
-**Apziva — Customer Happiness Prediction**
+**Apziva — Customer Happiness Prediction (project code:EvG0OxbGO4xst3Jp)**
 
 > Predicting customer satisfaction for a delivery & logistics startup (ACME) using an ordinal survey dataset. This repository contains exploratory data analysis, feature engineering, model training and evaluation, and artifacts (reports and figures) that demonstrate end-to-end work from raw data to actionable insights.
 
